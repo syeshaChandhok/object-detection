@@ -1,0 +1,18 @@
+
+.heading
+{
+font-size: 50px;
+width: 100%;
+margin: 20px;
+color: aliceblue;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-image: url("download.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
